@@ -7,6 +7,7 @@
 
 - [Project Overview](#project-overview)
 - [Objective](#objective)
+- [ANN Architecture](#ann-architecture)
 - [Dataset Description](#dataset-description)
 - [Conclusion](#conclusion)
 - [Potential Applications in Urban Resilience](#potential-applications-in-urban-resilience)
@@ -18,6 +19,12 @@ This project aims to classify disaster events into low-impact and high-impact ca
 ## Objective
 
 The main objective of this project is to classify disaster events into low-impact and high-impact categories and evaluate the performance of an Artificial Neural Network (ANN).
+
+## ANN Architecture
+
+The following diagram illustrates the architecture of the Artificial Neural Network (ANN) used in this project.
+
+![ANN Architecture](ann_architecture.png)
 
 The project also explores the potential application of deep learning in disaster management and urban resilience. A Logistic Regression model is used as a baseline for comparison.
 
